@@ -1,4 +1,5 @@
 ```N.C.                              Eb
+Gm                             Eb
 I'm in the phone booth, it's the one across the hall
 Gm                             Eb
 If you don't answer, I'll just ring it off the wall
