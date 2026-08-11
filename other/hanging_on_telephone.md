@@ -7,9 +7,9 @@ Gm                     Eb
 I know he's there, but I just got to call
  
 [Refrain]
-               Eb             Cm   Gm
+               Eb             F   G
 Don't leave me hanging on the telephone
-               Eb             Cm   Gm
+               Eb             F   G
 Don't leave me hanging on the telephone
  
 [Verse 2]
@@ -29,9 +29,9 @@ Oh, why can't we talk again
 Oh, why can't we talk again
  
 [Refrain]
-               Cm             Bb   Gm
+               Eb             F   G
 Don't leave me hanging on the telephone
-               Cm             Bb   Gm
+               Eb             F   G
 Don't leave me hanging on the telephone
  
 [Verse 3]
@@ -65,9 +65,9 @@ Oh, I can't control myself
 Oh, I can't control myself
  
 [Refrain]
-               Cm             Bb   Gm
+               Eb             F   G
 Don't leave me hanging on the telephone
-               Cm             Bb   Gm
+               Eb             F   G
 Don't leave me hanging on the telephone
  
 [Outro]
