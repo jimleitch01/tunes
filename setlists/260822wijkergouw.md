@@ -2,11 +2,11 @@
 SET 1
 Vampire blues = J
 Good love is on the way = J
-Drive my car
-When you dance I can really love
-These boots are made for walking
-Sweet home Alabama
-Cinnamon girl
+Drive my car = J
+When you dance I can really love = J
+These boots are made for walking = J 
+Sweet home Alabama = J
+Cinnamon girl = J 
 Hanging on the telephone
 Hey Bulldog
 Prisoners of rock and roll
