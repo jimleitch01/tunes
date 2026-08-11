@@ -1,6 +1,6 @@
 ```
 SET 1
-Vampire blues 
+Vampire blues = J
 Good love is on the way
 Drive my car
 When you dance I can really love
