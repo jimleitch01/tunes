@@ -1,7 +1,7 @@
 ```
 SET 1
 Vampire blues = J
-Good love is on the way
+Good love is on the way = J
 Drive my car
 When you dance I can really love
 These boots are made for walking
