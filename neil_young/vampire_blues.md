@@ -1,6 +1,6 @@
-Vampire Blues
+# Vampire Blues
 
-
+```
 Verse 1:
  
       E
@@ -40,3 +40,4 @@ Good times are comin'._
 (Play the E chord with some improvised variations and fade out.)
  
 End on E
+```

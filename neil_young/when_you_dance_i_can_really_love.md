@@ -1,7 +1,6 @@
-====
-WHEN YOU DANCE
-====
+# When You Dance I Can Really Love
 
+```
 [Intro]
 Dsus4  D*     C   G
 D             C   G
@@ -52,3 +51,4 @@ I know you know
 When you dance, ooh, ooh, I can really love
  
 F  D  F  G  (repeat to fade)
+```

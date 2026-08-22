@@ -1,7 +1,6 @@
-====
-Ohio
-====
+# Ohio
 
+```
  
 Dm                 F     C     Dm              F      C
   Tin soldiers and Nixon coming, we're finally on our own
@@ -54,3 +53,4 @@ Dm              F        C       Dm             F  C
 Dm             F  C
   Four dead in Ohio
 Dm             F  C
+```

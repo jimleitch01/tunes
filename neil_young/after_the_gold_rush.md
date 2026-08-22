@@ -1,6 +1,6 @@
-After The Gold Rush
+# After the Gold Rush
 
-
+```
 Dsus2 D G
 Dsus2 D G
  
@@ -80,4 +80,4 @@ D                      A
 Flying mother nature's silver seed
      C               G
 To a new home...
- 
+```

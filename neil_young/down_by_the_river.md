@@ -1,7 +1,6 @@
-====
-DOWN BY THE RIVER
-====
+# Down by the River
 
+```
 Em Em7* A  Em Em7* A
  
 Em     Em7           A                     Em             Em7        A
@@ -49,4 +48,4 @@ G      D         A
   Down by the river 
 G      D         A   G   D         A
   Down by the river,   I shot my baby . . . .
-
+```

@@ -1,6 +1,6 @@
-====
-LIKE A HURRICAINE
-====
+# Like a Hurricane
+
+```
 [Intro]
 Am  G   F   Em   G
  
@@ -73,3 +73,4 @@ I wanna love you, but I'm getting blown away.
  
 [Outro]
 Am  G   F   Em   G  x10
+```

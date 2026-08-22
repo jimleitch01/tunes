@@ -1,8 +1,6 @@
-====
-ROCKIN IN THE FREE WORLD
-====
+# Rockin' in the Free World
 
-
+```
 [Intro]
 Em     D  C   x4
  
@@ -106,3 +104,4 @@ G         D                        C  C Em
 A
 (play for 4 bars, interleave A with A7)
 Em     D  C   x8
+```

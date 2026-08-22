@@ -1,3 +1,6 @@
+# Heart of Gold
+
+```
 [Intro]
  
 [Harmonica Intro]
@@ -58,3 +61,4 @@ Em7                       D        Em
   Keep me searching for a heart of gold
 Em                        G                  C       G
   I've been a miner for a heart of gold      ahhhhhh
+```

@@ -1,8 +1,6 @@
-====
-OLD MAIN
-====
+# Old Man
 
-
+```
 [INTRO]
 F/D (5th Fret)   D5 D Dsus4 D D5
 F/D (5th Fret)   D5 D Dsus4 D D5
@@ -88,3 +86,4 @@ F/D (5th Fret)                          D
 Old man look at my life, I'm a lot like you were.
  
 F  C  G  D
+```

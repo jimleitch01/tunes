@@ -1,9 +1,6 @@
-====
-COWGIRL IN THE SAND
-====
+# Cowgirl in the Sand
 
-
-
+```
 Am  F
  
 Am                    F                          Am
@@ -61,3 +58,4 @@ When so many love you is it the same?
 It's the woman in you that makes you want to play this game.
  
 F C  E7 A
+```

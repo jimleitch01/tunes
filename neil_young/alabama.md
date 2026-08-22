@@ -1,7 +1,6 @@
-====
-Alabama
-====
+# Alabama
 
+```
 F G Em  F G F C  F G Em
 
 F G    Em   F          G              F         C
@@ -75,3 +74,4 @@ You got the rest of the union to help you along
 
        Am          F G Em
 What's goin' wrong? 
+```

@@ -1,4 +1,6 @@
-Cinnamon Girl chords **
+# Cinnamon Girl
+
+```
 Neil Young  1970
  
 https://en.wikipedia.org/wiki/Cinnamon_Girl
@@ -68,3 +70,4 @@ I need another chance
 You see your baby loves to dance
                        D
 Yeah...yeah...yeah.
+```

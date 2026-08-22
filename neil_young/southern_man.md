@@ -1,7 +1,6 @@
-====
-SOUTHERN MAN
-====
+# Southern Man
 
+```
 [Intro]
  
 | Dm       | Bb  Gm    | Dm       | Bb  Gm    |
@@ -70,3 +69,4 @@ How long, how long? Ah!
 | Dm       | Bb  Gm    | Dm       | Bb  Gm    | x6
  
 (fade out)
+```
