@@ -1,4 +1,4 @@
-G  C G  C G C G
+```G  C G  C G C G
  
   G
 I think I'd like to go
@@ -67,6 +67,7 @@ G      D        C
  La la la la la la la
 G      D        C
  La la la la la la la   4x
+```
  
 Set8
 
